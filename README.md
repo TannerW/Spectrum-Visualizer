@@ -1,2 +1,2 @@
 # Spectrum-Visualizer
-Arduino and Processing code for my Spectrum Visualizer project
+Arduino and Processing code for my Spectrum Visualizer (Personal Project)
