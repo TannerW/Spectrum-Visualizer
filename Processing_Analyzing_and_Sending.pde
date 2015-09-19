@@ -32,6 +32,7 @@
   Resources:
   https://processing.org/reference/libraries/
   https://github.com/processing/processing
+  http://playground.arduino.cc/Interfacing/Processing
 */
 
 import processing.sound.*;
