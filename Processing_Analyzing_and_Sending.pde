@@ -23,7 +23,9 @@
   
   In this case, I used LEDs to visualize this data on hardware
   but these concepts could be tweaked fairly easily and applied
-  to many means of visualization (please see the Arduino code for more info).
+  to many means of visualization.
+  Please see the Arduino code for more info:
+  https://github.com/TannerW/Spectrum-Visualizer/blob/master/Arduino_LED_Controller.ino
   
   Please refer to the resources used if asking any questions about any
   undocumented methods or functions. Processing has great documentation
